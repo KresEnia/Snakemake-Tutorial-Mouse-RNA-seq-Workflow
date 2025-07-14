@@ -30,6 +30,9 @@ Gene-level quantification using featureCounts
 This repository serves as a personal learning environment for understanding and practicing:
 
 Rule chaining and dependency management in Snakemake
+
 Integration with conda environments
+
 Modular pipeline design
+
 Reproducible computational workflows
