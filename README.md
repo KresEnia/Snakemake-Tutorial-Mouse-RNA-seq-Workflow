@@ -16,9 +16,13 @@ Data set Source : https://bioinformatics-core-shared-training.github.io/RNAseq-R
 The Snakemake workflow includes the following steps:
 
 Quality Control with FastQC and summary with MultiQC
+
 Adapter and quality trimming with Fastp
+
 Alignment to the mouse genome (mm10) using Bowtie2
+
 Conversion and sorting of SAM to BAM files using Samtools
+
 Gene-level quantification using featureCounts
 
 🧪 Purpose
