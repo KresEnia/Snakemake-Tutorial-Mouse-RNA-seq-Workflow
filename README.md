@@ -9,7 +9,8 @@ This repository contains a Snakemake-based workflow for practicing reproducible 
 The input data consists of RNA-seq FASTQ files from the GEO dataset GSE60450, which profiles gene expression in mouse mammary gland cells.
 
 🔗 Direct download (Figshare): https://figshare.com/s/f5d63d8c265a05618137
-Data set Source : https://bioinformatics-core-shared-training.github.io/RNAseq-R/align-and-count.nb.html (the data available on kaggle too)
+
+Dataset source : https://bioinformatics-core-shared-training.github.io/RNAseq-R/align-and-count.nb.html (the data available on kaggle too)
 
 Pre-built indices for alignment step were downloaded from https://benlangmead.github.io/aws-indexes/bowtie
 
